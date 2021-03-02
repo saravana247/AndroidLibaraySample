@@ -1,0 +1,3 @@
+include ':posUtillibrary'
+include ':app'
+rootProject.name = "PosUtil"
